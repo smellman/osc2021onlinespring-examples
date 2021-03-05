@@ -1,0 +1,19 @@
+{
+  "name": "leaflet-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Taro Matsuzawa <btm@tech.email.ne.jp> (https://smellman.hatenablog.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "leaflet": "^1.7.1"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.5.23",
+    "typescript": "^4.2.3"
+  }
+}
